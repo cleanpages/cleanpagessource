@@ -34,15 +34,19 @@ Due to flight simulator market is shrinking during the pendamic COVID-19, I've l
   French and English (Professional working proficiency)<br>
   Chinese Mandarin  (Native)<br>
 
-**SOFTWARE**
-- *Development tools:*<br>
-  MATLAB, VISUAL STUDIO C++, PYTHON, JAVA, JAVASCRIPT, HTML and Vim<br>
-- *Operating system:*<br>
-  Linux (Debian & Redhat) and Windows<br>
-- *Version Control:*<br>
-  Git/SourceTree, TortoiseSVN<br>
-- *Project Management:*<br>
-  ATLASSIAN JIRA
+**SOFTWARE**<br>
+
+Development tools:
+:  MATLAB, VISUAL STUDIO C++, PYTHON, JAVA, JAVASCRIPT, HTML and Vim
+
+Operating system:
+:  Linux (Debian & Redhat) and Windows
+
+Version Control:
+:  Git/SourceTree, TortoiseSVN
+
+Project Management:
+:  ATLASSIAN JIRA
 
 **ELECTRONIC**<br>
   Altium Designer, FPGA Xilinx, AutoCAD  
