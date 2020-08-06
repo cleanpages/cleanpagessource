@@ -79,7 +79,7 @@ ANC[^anc] Developer (2017-2019)<br>
 
 ---
 
-## INTERSHIP
+## INTERNSHIP
 ### Programmer Analyst&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Summer 2015)
 *Pratt & Whitney Canada*, IT group
 - Developping web application collecting engine testing data from various servers and generating HTML logsheets as per Customer's request
