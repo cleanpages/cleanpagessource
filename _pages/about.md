@@ -13,7 +13,7 @@ Due to flight simulator market is shrinking during the pendamic COVID-19, I've l
 {: style="text-align: justify;"}
 [^anc]:Aricraft Ancillaries system consists of:<br>- Air conditioning and pressurization<br>- Electrical power<br>- Fire protection<br>- Fuel<br>- Hydraulic power<br>- Ice and rain protection<br>- Landing gear<br>- Lighting<br>- Oxygen<br>- Pneumatic<br>- Doors
 [^fss]: FSS consists of:<br>- Air Traffic Control transponder (ATC)<br>- Traffic Collision Avoid System (TCAS)<br>- Terrain Awareness Warning System (TAWS)<br>- Weather Radar (WXR)
-[^pwc]: acronyme of Pratt and Whitney Canada
+*[P&WC]: stands for "Pratt and Whitney Canada"
 
 ---
 
@@ -68,11 +68,11 @@ ANC[^anc] Developer (2017-2019)<br>
 - Interacting upstream with Airbus, Honeywell AEROSPACE and THALES, and downstream with final cusotmers
 
 ### Embeded Software Specialist (2016-2017)
-*CS Canada inc.* P&WC[^pwc] Legacy Engine testing group
-- Developping system integration tests for P&WC[^pwc] helicopter engine control laws
+*CS Canada inc.* P&WC Legacy Engine testing group
+- Developping system integration tests for P&WC helicopter engine control laws
 - Automating tests on test bench by programming C script
 - Analysis of instrumented code to verify DO-178B compliance
-- Writing final test report and deliver to P&WC[^pwc] 
+- Writing final test report and deliver to P&WC 
 
 ### Flight Simulator Technician (2016:5 months)
 *CAE Flight Training Center*
