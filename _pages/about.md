@@ -30,21 +30,21 @@ Due to flight simulator market is shrinking during the pendamic COVID-19, I've l
 
 ## SKILLS
 
-### LANGUAGE
+**LANGUAGE**<br>
   French and English (Professional working proficiency)<br>
   Chinese Mandarin  (Native)<br>
 
-### SOFTWARE
-- Development tools:<br>
+**SOFTWARE**
+- *Development tools:*<br>
   MATLAB, VISUAL STUDIO C++, PYTHON, JAVA, JAVASCRIPT, HTML and Vim<br>
-- Operating system:<br>
+- *Operating system:*<br>
   Linux (Debian & Redhat) and Windows<br>
-- Version Control:<br>
+- *Version Control:*<br>
   Git/SourceTree, TortoiseSVN<br>
-- Project Management:<br>
+- *Project Management:*<br>
   ATLASSIAN JIRA
 
-### ELECTRONIC
+**ELECTRONIC**<br>
   Altium Designer, FPGA Xilinx, AutoCAD  
 
 ---
