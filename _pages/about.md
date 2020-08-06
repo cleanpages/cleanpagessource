@@ -53,8 +53,8 @@ Due to flight simulator market is shrinking during the pendamic COVID-19, I've l
 ### System Software Developer (2017-2020)
 *CAE inc.* Airbus A320 Vehicle Simulation group
 
-FSS[^fss] Developer (2018-2020)<br>
-ANC[^anc] Developer (2017-2018)<br>
+FSS[^fss] Developer (2019-2020)<br>
+ANC[^anc] Developer (2017-2019)<br>
 - Analysis of real aircraft system technical documentation
 - Development, Test and Integration of system software
 - Investigation and correction of identified issues of flight simulator
