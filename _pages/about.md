@@ -11,7 +11,7 @@ I am an electrical engineer with 3-year work experience of flight simulator avio
 
 Due to flight simulator market is shrinking during the pendamic COVID-19, I've lost my job. Now, I am looking for an experience-related job as well as any other IT programming jobs of website, desktop application and embeded system software development using C++, JAVA and PYTHON or any other languages. I am a quick leanrner of new programming languages.
 {: style="text-align: justify;"}
-[^anc]:Aricraft Ancillaries system consists of:<br>- Air conditioning and pressurization<br>- Electrical power<br>- Fire protectionF<br>- Fuel<br>- Hydraulic power<br>- Ice and rain protection<br>- Landing gear<br>- Lighting<br>- Oxygen<br>- Pneumatic<br>- Doors
+[^anc]:Aricraft Ancillaries system consists of:<br>- Air conditioning and pressurization<br>- Electrical power<br>- Fire protection<br>- Fuel<br>- Hydraulic power<br>- Ice and rain protection<br>- Landing gear<br>- Lighting<br>- Oxygen<br>- Pneumatic<br>- Doors
 [^fss]: FSS consists of:<br>- Air Traffic Control transponder (ATC)<br>- Traffic Collision Avoid System (TCAS)<br>- Terrain Awareness Warning System (TAWS)<br>- Weather Radar (WXR)
 [^pwc]: acronyme of Pratt and Whitney Canada
 
