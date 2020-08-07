@@ -35,20 +35,23 @@ Due to flight simulator market is shrinking during the pendamic COVID-19, I've l
 
 **SOFTWARE**<br>
 
-Development tools:
-:  MATLAB, VISUAL STUDIO C++, PYTHON, JAVA, JAVASCRIPT, HTML and Vim
+* _Development tools:_
+:  MATLAB<br>
+   Visual Studio C++<br>
+   Vim for Python, HTML, and JavaScript<br>
+   Eclipse for Java
 
-Operating system:
+* _Operating system:_
 :  Linux (Debian & Redhat) and Windows
 
-Version Control:
-:  Git/SourceTree, TortoiseSVN
+* _Version Control:_
+:  Git/SourceTree and TortoiseSVN
 
-Project Management:
+* _Project Management:_
 :  ATLASSIAN JIRA
 
-**ELECTRONIC**<br>
-  Altium Designer, FPGA Xilinx, AutoCAD  
+* _Electronic Development:_
+: Altium Designer, FPGA Xilinx and AutoCAD
 
 ---
 
@@ -69,7 +72,7 @@ ANC[^anc] Developer (2017-2019)<br>
 ### Embeded Software Specialist (2016-2017)
 *CS Canada inc.* P&WC Legacy Engine testing group
 - Developping system integration tests for P&WC helicopter engine control laws
-- Automating tests on test bench by programming C script
+- Programming C script to Automate tests on test bench
 - Analysis of instrumented code to verify DO-178B compliance
 - Writing final test report and deliver to P&WC
 
@@ -97,10 +100,10 @@ ANC[^anc] Developer (2017-2019)<br>
 - Developping GUI application generating test input signals
 - Participating in technical documentation update
 
-### Computer Software Testern&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Winter 2014)
+### Computer Software Tester&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Winter 2014)
 *Matrox Electronic System inc.* Design Assistant group
 - Executing test plans to ensure the quality of software products
-- Development of automate testing C# scripts
+- Development of automated testing C# scripts
 
 ### Computer Software Programmer (Winter 2013)
 *CAE inc.* Core Engineering group
