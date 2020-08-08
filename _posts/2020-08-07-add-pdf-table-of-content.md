@@ -133,6 +133,6 @@ Voilà, We get an ebook with its clickable table of content saved in ```JavaCook
 
 ## Conclusion
 
-PDFtk only has command-line version for Linux, which is a little bit hard to use comparing to GUI version. However, Linux user is not scared of command lineds. For more usage, you could type `pdftk --help`.
+PDFtk only has command-line version for Linux, which is a little bit hard to use comparing to GUI version. However, Linux users are not scared of command lines. For more usage, you could type `pdftk --help`.
 
 Enjoy!
