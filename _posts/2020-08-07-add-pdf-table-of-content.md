@@ -94,10 +94,10 @@ PageMediaDimensions: 595 842
 Add the four following tags after the tag ```NumberOfPages:```
 
 ```
-* BookmarkBegin
-* BookmarkTitle:
-* BookmarkLevel:
-* BookmarkPageNumber:
+BookmarkBegin
+BookmarkTitle:
+BookmarkLevel:
+BookmarkPageNumber:
 ```
 
 The four tags are ALL necessary for each chapter. Repeatedly append these four tags for all the chapters, and fill the values of ```BookmarkTitle```, ```BookmarkLevel``` and ```BookmarkPageNumber``` as per every chapter's infomation. Here is what I have done with the three first chapters of Java Cookbook:
