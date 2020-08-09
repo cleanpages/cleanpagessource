@@ -33,7 +33,7 @@ Due to flight simulator market is shrinking during the pendamic COVID-19, I've l
   French and English (Professional working proficiency)<br>
   Chinese Mandarin  (Native)<br>
 
-**SOFTWARE**<br>
+**SOFTWARE**
 
 * _Development tools:_
 :  MATLAB<br>
@@ -42,22 +42,26 @@ Due to flight simulator market is shrinking during the pendamic COVID-19, I've l
    Eclipse for Java
 
 * _Operating system:_
-:  Linux (Debian & Redhat) and Windows
+:  Linux (Debian & Redhat)<br>
+   Windows
 
 * _Version Control:_
-:  Git/SourceTree and TortoiseSVN
+:  Git/SourceTree<br>
+   TortoiseSVN
 
 * _Project Management:_
 :  ATLASSIAN JIRA
 
 * _Electronic Development:_
-: Altium Designer, FPGA Xilinx and AutoCAD
+: Altium Designer<br>
+  FPGA Xilinx<br>
+  AutoCAD<br>
 
 ---
 
 ## WORK EXPERIENCE
 ### System Software Developer (2017-2020)
-*CAE inc.* Airbus A320 Vehicle Simulation group
+_CAE inc._ Airbus A320 Vehicle Simulation group
 
 FSS[^fss] Developer (2019-2020)<br>
 ANC[^anc] Developer (2017-2019)<br>
@@ -70,7 +74,7 @@ ANC[^anc] Developer (2017-2019)<br>
 - Interacting upstream with Airbus, Honeywell AEROSPACE and THALES, and downstream with final cusotmers
 
 ### Embeded Software Specialist (2016-2017)
-*CS Canada inc.* P&WC Legacy Engine testing group
+_CS Canada inc._ P&WC Legacy Engine testing group
 - Developping system integration tests for P&WC helicopter engine control laws
 - Programming C script to Automate tests on test bench
 - Analysis of instrumented code to verify DO-178B compliance
@@ -79,7 +83,7 @@ ANC[^anc] Developer (2017-2019)<br>
 *[P&WC]: Pratt and Whitney Canada 
 
 ### Flight Simulator Technician (2016:5 months)
-*CAE Flight Training Center*
+_CAE Flight Training Center_
 - Preventive and daily maintenance of flight simulators
 - Updating FMS database
 - Communication with customers and CAE engineers
@@ -88,30 +92,30 @@ ANC[^anc] Developer (2017-2019)<br>
 ---
 
 ## INTERNSHIP
-### Programmer Analyst&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Summer 2015)
-*Pratt & Whitney Canada*, IT group
+### Programmer Analyst Intern (Summer 2015)
+_Pratt & Whitney Canada_, IT group
 - Developping web application collecting engine testing data from various servers and generating HTML logsheets as per Customer's request
 - Working with users to define application design and improve user experience
 - Implementing, testing and validating the web application
 
-### Control System Design&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Autumn 2014)
-*Pratt & Whitney Canada*, Helicopter Engine group
+### Engine Control System Design (Autumn 2014)
+_Pratt & Whitney Canada_, Helicopter Engine group
 - Improving auto-test simulation tool for engine servo control system
 - Developping GUI application generating test input signals
 - Participating in technical documentation update
 
-### Computer Software Tester&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Winter 2014)
-*Matrox Electronic System inc.* Design Assistant group
+### Computer Visual  Software Tester (Winter 2014)
+_Matrox Electronic System inc._ Design Assistant group
 - Executing test plans to ensure the quality of software products
 - Development of automated testing C# scripts
 
 ### Computer Software Programmer (Winter 2013)
-*CAE inc.* Core Engineering group
+_CAE inc._ Core Engineering group
 - Upgrading code of image deployment tool for Windows 7
 - Developing PowerShell script to perform silent installation on Windows 2008 server
 
 ### Computer Software Programmer (Summer 2012)
-*CAE inc.* Core Engineering group
+_CAE inc._ Core Engineering group
 - Refactoring old image deployment tool on new platform
 - Automating system information collection
 - Associating IT system administrator investigating daily issues 
