@@ -22,9 +22,9 @@ Did you ever think to create a table of content with links to a PDF ebook withou
 Downlad [HERE](https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/pdftk_free-2.02-win-setup.exe "PDFtk Windows installer"), and execute a normal installation.
 
 ### Linux
-* _Neon KDE (Debian):_
-: not yet found any valided candidate for deb packages. Would release "Build PDFtk from source code".
-* _Fedora:_
+* _KDE Neon 5.19.4 (based on Ubuntu 20.04):_
+: PDFtk can be installed with its dependencies in Synaptic.
+* _Fedora 32:_
 : PDFtk is not contained in any Fedora 32 offical repositories. Fortunately, PDFtk has been built in Fedora 30, and successfully tested in Fedora 32. We can download its rpm packages [HERE](https://sandbox.mc.edu/~bennet/pdftk.html "PDFtk for Fedora 32"). Then, install by the following command-line on your local PC.
 
 `sudo dnf install [downloaded rpm path]`
