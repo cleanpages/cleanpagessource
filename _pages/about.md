@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About Me"
+title: "About"
 excerpt: "I am a double E with Avionic system software experience"
 last_modified_at: 2020-08-04T14:15:22-05:00
 toc: true
@@ -8,6 +8,7 @@ toc_sticky: true
 ---
 
 I am an electrical engineer with 3-year work experience of flight simulator avionic system software especially Aircraft Ancillaries System (ANC)[^anc] and Flight Surveillance System (FSS)[^fss] .
+{: style="text-align: justify;"}
 
 Due to flight simulator market is shrinking during the pendamic COVID-19, I've lost my job. Now, I am looking for an experience-related job as well as any other IT programming jobs of website, desktop application and embeded system software development using C++, JAVA and PYTHON or any other languages. I am a quick leanrner of new programming languages.
 {: style="text-align: justify;"}

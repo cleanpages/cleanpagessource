@@ -23,11 +23,15 @@ Downlad [HERE](https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/pdftk_free-2.
 
 ### Linux
 * _KDE Neon 5.19.4 (based on Ubuntu 20.04):_
-: PDFtk can be installed with its dependencies in Synaptic.
+: PDFtk can be installed with its dependencies in Synaptic. Or,
+```
+sudo install pdftk
+```
 * _Fedora 32:_
 : PDFtk is not contained in any Fedora 32 offical repositories. Fortunately, PDFtk has been built in Fedora 30, and successfully tested in Fedora 32. We can download its rpm packages [HERE](https://sandbox.mc.edu/~bennet/pdftk.html "PDFtk for Fedora 32"). Then, install by the following command-line on your local PC.
-
-`sudo dnf install [downloaded rpm path]`
+```
+sudo dnf install [downloaded rpm path]
+```
 
 **Note:** There are two packages to be downloaded. The package `gcc6-libgcj-6.5.0-2.fc30.x86_64.rpm` should be firstly installed since it is the dependency of the package `pdftk-2.02-2.fc30.x86_64.rpm`.
 {: .notice--warning}
