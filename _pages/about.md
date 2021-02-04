@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About"
+title: "About Me"
 excerpt: "I am a double E with Avionic system software experience"
 last_modified_at: 2020-08-04T14:15:22-05:00
 toc: true
@@ -20,43 +20,34 @@ Due to flight simulator market is shrinking during the pendamic COVID-19, I've l
 ## EDUCATION
 
 - **Bachelor Degree of Electrical Engineering**<br>
-  Université de Sherbrooke (2011-2015)<br>
+  Université de Sherbrooke<br>
 
 - **3-year College Degree of Electronic Applied Technology**<br>
    Professional Technical Institute of Nankai University<br>
-   (1999-2002)
 
 ---
 
 ## SKILLS
 
 **LANGUAGE**<br>
-  French and English (Professional working proficiency)<br>
-  Chinese Mandarin  (Native)<br>
+  English, French and Chinese Mandarin<br>
 
 **SOFTWARE**
 
-* _Development tools:_
-:  MATLAB<br>
-   Visual Studio C++<br>
-   Vim for Python, HTML, and JavaScript<br>
-   Eclipse for Java
+* _Programming Language:_
+:  C++, FORTRAN, Java, Python, HTML, and JavaScript
 
 * _Operating system:_
-:  Linux (Debian & Redhat)<br>
-   Windows
+:  Microsoft Windows and Linux (Debian & Redhat)
 
 * _Version Control:_
-:  Git/SourceTree<br>
-   TortoiseSVN
+:  Git/SourceTree, TortoiseSVN and Starteam
 
 * _Project Management:_
 :  ATLASSIAN JIRA
 
 * _Electronic Development:_
-: Altium Designer<br>
-  FPGA Xilinx<br>
-  AutoCAD<br>
+: Altium Designer, FPGA Xilinx and AutoCAD
 
 ---
 
@@ -95,14 +86,14 @@ _CAE Flight Training Center_
 ## INTERNSHIP
 ### Programmer Analyst Intern (Summer 2015)
 _Pratt & Whitney Canada_, IT group
-- Developping web application collecting engine testing data from various servers and generating HTML logsheets as per Customer's request
+- Developed a web application collecting engine testing data from various servers and generating HTML logsheets as per Customer's request
 - Working with users to define application design and improve user experience
 - Implementing, testing and validating the web application
 
 ### Engine Control System Design (Autumn 2014)
 _Pratt & Whitney Canada_, Helicopter Engine group
 - Improving auto-test simulation tool for engine servo control system
-- Developping GUI application generating test input signals
+- Developed a GUI application generating test input signals
 - Participating in technical documentation update
 
 ### Computer Visual  Software Tester (Winter 2014)
