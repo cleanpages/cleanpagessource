@@ -15,6 +15,8 @@ Due to flight simulator market is shrinking during the pendamic COVID-19, I've l
 [^anc]:Aricraft Ancillaries system consists of:<br>- Air conditioning and pressurization<br>- Electrical power<br>- Fire protection<br>- Fuel<br>- Hydraulic power<br>- Ice and rain protection<br>- Landing gear<br>- Lighting<br>- Oxygen<br>- Pneumatic<br>- Doors
 [^fss]: FSS consists of:<br>- Air Traffic Control transponder (ATC)<br>- Traffic Collision Avoid System (TCAS)<br>- Terrain Awareness Warning System (TAWS)<br>- Weather Radar (WXR)
 
+[My CV PDF version](https://cleanpages.github.io/assets/docs/ChaoLinCv.pdf)
+
 ---
 
 ## EDUCATION

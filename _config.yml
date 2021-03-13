@@ -12,7 +12,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 locale                   : "en-US"
 title                    : "Clean Pages"
 title_separator          : "-"
-subtitle                 : "Cleanly Code Or Die" # site tagline that appears below site title in masthead
+subtitle                 : "Clean Coding Or Die" # site tagline that appears below site title in masthead
 name                     : &name "Chao Lin"
 description              : &description "A personal IT programming website."
 url                      : "https://cleanpages.github.io" # the base hostname & protocol for your site
@@ -57,7 +57,7 @@ google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 # SEO Related
-google_site_verification : "AQTq4gNYGiNp0NlU6-wAAW0_FIdthD8PVGen48XuDcs"
+google_site_verification :
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
@@ -79,9 +79,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               :  # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          : "UA-171400018-1"
+    tracking_id          :
     anonymize_ip         : true # true, false (default)
 
 

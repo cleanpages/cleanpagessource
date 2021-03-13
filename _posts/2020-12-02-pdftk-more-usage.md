@@ -13,7 +13,7 @@ toc_sticky: false
 Here is more usage of pdftk. This post keeps being updated...
 
 **Note**: If you want to know how to install pdftk in Linux, please refer to
-[Create a table of content with links for PDF](https://cleanpages.github.io/website/pdf/add-pdf-table-of-content/)
+[Create a table of content with links for PDF](https://cleanpages.github.io/pdf/add-pdf-table-of-content/)
 {: .notice--warning}
 
 ### Merge multiple PDF files to one PDF files
